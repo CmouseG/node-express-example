@@ -1,0 +1,9 @@
+{
+    "name": "node-express",
+    "private": true,
+    "version": "0.0.1",
+    "description": "Node Hello world app on Ubuntu using docker",
+    "dependencies": {
+        "express": "4.12.4"
+    }
+}
